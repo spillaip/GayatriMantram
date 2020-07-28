@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Gayatri Mantram</string>
+    <string name="edit_message">Number of Times</string>
+    <string name="button_send">Play</string>
+</resources>
